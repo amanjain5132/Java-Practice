@@ -1,0 +1,30 @@
+import java.util.Scanner;
+class Escape_Sequence_Characters
+{
+    public static void main(String[] args) 
+    {    
+        //Q1
+        //String name = "Amit Shah";
+        //System.out.println(name.toLowerCase());
+        
+        //Q2
+        //String text = "Oh  MY  Friend  Ganesha";
+        //text = text.replace(" ", "_");
+        //System.out.println(text);
+        
+        //Q3
+       //String letter = "Dear <|name|>, Thanks a lot!";
+        l//letter = letter.replace("<|name|>", "AMAN");
+        //System.out.println(letter);
+        
+        //Q4
+        //String myString = "This string contains double and  triple spaces";
+        //System.out.println(myString.indexOf("  "));
+        //System.out.println(myString.indexOf("   "));
+        
+        //Q5
+        //String myLetter = "Dear AMAN,\n\tThis Java Course is Nice.\nThanks!";
+        //System.out.println(myLetter);
+
+}
+}

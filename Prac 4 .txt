@@ -1,0 +1,42 @@
+import java.util.Scanner;
+public class cwh {
+    public static void main(String[] args) {
+     Scanner sc = new Scanner(System.in);
+        
+        /*
+        Q=1
+       int a = 41;
+       if(a==11){
+           System.out.println("I am 11");
+       }
+       else{
+           System.out.println("I am not 11");
+       }
+       */
+       
+       /* Q-2
+       
+       System.out.println("Enter the marks of 1 Subject");
+       float S1 = sc.nextFloat();
+       
+       System.out.println("Enter the marks of 2 Subject");
+       float S2 = sc.nextFloat();
+       
+       System.out.println("Enter the marks of 3 Subject");
+       float S3 = sc.nextFloat();
+       
+       float avg = (S1+S2+S3)/3.0f;
+       System.out.println("Your Overall percentage");
+       System.out.println("is: " + avg);
+       
+       if(avg>=40 && S1>=33 && S2>=33 && S3>=33)
+       {
+            System.out.println("Congratulations, You have been promoted");
+       }
+         else
+       {
+            System.out.println("Sorry, You have not been promoted! Please try again.");
+       }
+       
+       */
+       
